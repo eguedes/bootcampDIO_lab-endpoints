@@ -199,6 +199,10 @@ O painel de teste pegou os dados de entrada e usou o modelo treinado para retorn
 
 Vamos revisar o que você fez. Você usou um conjunto de dados históricos de aluguel de bicicletas para treinar um modelo. O modelo prevê o número de aluguéis de bicicletas esperados num determinado dia, com base em características sazonais e meteorológicas.
 
+## Arquivo para teste do ponto de extremidade
+
+O ponto de extremidade pode ser testado com o arquivo (endpoint.json)[https://github.com/eguedes/bootcampDIO_lab-endpoints/blob/main/endpoint.json].
+
 
 ## Limpando
 
