@@ -201,7 +201,7 @@ Vamos revisar o que você fez. Você usou um conjunto de dados históricos de al
 
 ## Arquivo para teste do ponto de extremidade
 
-O ponto de extremidade pode ser testado com o arquivo (endpoint.json)[https://github.com/eguedes/bootcampDIO_lab-endpoints/blob/main/endpoint.json].
+O ponto de extremidade pode ser testado com o arquivo [endpoint.json](https://github.com/eguedes/bootcampDIO_lab-endpoints/blob/main/endpoint.json).
 
 
 ## Limpando
